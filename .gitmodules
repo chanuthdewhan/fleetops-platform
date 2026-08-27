@@ -1,0 +1,9 @@
+[submodule "config-server"]
+	path = config-server
+	url = git@github.com:chanuthdewhan/fleetops-config-server.git
+[submodule "service-registry"]
+	path = service-registry
+	url = git@github.com:chanuthdewhan/fleetops-service-registry.git
+[submodule "api-gateway"]
+	path = api-gateway
+	url = git@github.com:chanuthdewhan/fleetops-api-gateway.git
