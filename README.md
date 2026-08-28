@@ -45,7 +45,7 @@ repository containing the following as Git submodules.
 ## Local Setup
 
 ```bash
-git clone --recurse-submodules https://github.com/<your-username>/fleetops-platform.git
+git clone --recurse-submodules https://github.com/chanuthdewhan/fleetops-platform.git
 cd fleetops-platform
 docker compose up -d          # starts local PostgreSQL + MongoDB
 ```
